@@ -7,15 +7,15 @@ function App() {
       <h1>list of projects</h1>
 
       <ul>
-        <li><h3><a href="https://hayayman.github.io/root/">firt deploy</a></h3></li>
-        <li><h3><a href="https://hayayman.github.io/hayst/">firt deploy</a></h3></li>
+        <li><h3><a href="https://hayayman.github.io/root/">first deploy</a></h3></li>
+        <li><h3><a href="https://hayayman.github.io/hayst/">second deploy</a></h3></li>
       </ul>
 
       <hr />
 
       <h2>
          &copy; 
-          <a href="">that was my port folio</a>
+          <a href="https://hayayman.github.io/portfolio/">that was my port folio</a>
       </h2>
 
     </>
