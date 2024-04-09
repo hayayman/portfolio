@@ -12,6 +12,8 @@ function App() {
       </ul>
 
       <hr />
+        <h1>this is the git test</h1>
+      <hr />
 
       <h2>
          &copy; 
